@@ -18,28 +18,28 @@ The dataset used for this project contains transactions from an online retail st
 **Country**: Country name   
 ## Project Steps
 ####  1. Data Preprocessing
-**->** Load the dataset and handle missing values.   
-**->** Clean and preprocess the data.   
-**->** Select relevant features for clustering.   
++ Load the dataset and handle missing values.   
++ Clean and preprocess the data.   
++ Select relevant features for clustering.   
 
 #### 2. Customer Segmentation
-**->** Standardize the features.   
-**->** Apply the KMeans clustering algorithm to segment the customers.   
-**->** Determine the optimal number of clusters using the elbow method.   
++ Standardize the features.   
++ Apply the KMeans clustering algorithm to segment the customers.   
++ Determine the optimal number of clusters using the elbow method.   
 
 #### 3. Cluster Analysis
-**->** Assign cluster labels to the original dataset.   
-**->** Visualize the clusters using scatter plots.   
-**->** Calculate summary statistics (mean, median, standard deviation) for each cluster.   
++ Assign cluster labels to the original dataset.   
++ Visualize the clusters using scatter plots.   
++ Calculate summary statistics (mean, median, standard deviation) for each cluster.   
 
 #### 4. Customer Profiling
-**->** Create profiles for each customer segment based on the analysis.   
-**->** Describe the typical customer in each segment (e.g., demographics, purchasing behavior).   
-**->** Use box plots to illustrate the differences between segments.   
++ Create profiles for each customer segment based on the analysis.   
++ Describe the typical customer in each segment (e.g., demographics, purchasing behavior).   
++ Use box plots to illustrate the differences between segments.   
 ## Visualizations
 The project includes various visualizations to understand and illustrate customer segments:   
-**->** Scatter plots colored by cluster labels to visualize the grouping of data points.   
-**->** Box plots to compare the distribution of features across clusters.   
++ Scatter plots colored by cluster labels to visualize the grouping of data points.   
++ Box plots to compare the distribution of features across clusters.   
 ## Results
 The analysis provides insights into different customer segments, highlighting unique purchasing behaviors and characteristics of each segment. These insights can be used for targeted marketing and improving customer engagement strategies.
 ## Conclusion
