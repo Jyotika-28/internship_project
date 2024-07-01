@@ -9,12 +9,19 @@ Applied K-means clustering with the elbow method to identify the ideal number of
 ## Dataset
 The dataset used for this project contains transactions from an online retail store. The data includes the following features:
 InvoiceNo: Invoice number
+
 StockCode: Product (item) code
+
 Description: Product (item) name
+
 Quantity: The quantity of each product (item) per transaction
+
 InvoiceDate: Invoice date and time
+
 UnitPrice: Unit price (Product price per unit)
+
 CustomerID: Customer number
+
 Country: Country name
 ## Project Steps
 1. Data Preprocessing
