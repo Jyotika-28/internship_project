@@ -5,7 +5,9 @@
 ## Project Overview
 The Online Retail Project involves analyzing customer data to identify distinct customer segments and profile them. The goal is to better understand customer behavior and provide insights for targeted marketing strategies.
 ## Features
-Applied K-means clustering with the elbow method to identify the ideal number of clusters using within-cluster sum of squares (WCSS).
++ Applied K-means clustering with the elbow method to identify the ideal number of clusters using within-cluster sum of squares (WCSS).
++ Implemented Agglomerative Hierarchical Clustering to analyze hierarchical relationships among customer segments.
++ Incorporated DBSCAN algorithm for identifying dense regions in the data and handling noisy data points effectively.
 ## Dataset
 The dataset used for this project contains transactions from an online retail store. The data includes the following features:
 **InvoiceNo**: Invoice number   
